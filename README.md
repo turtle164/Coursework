@@ -1,5 +1,5 @@
-# Signup and Login with PHP and MySQL
+# Source to coursework video
 
-Source code to accompany this video: https://youtu.be/5L9UhOnuos0
+Source video: https://youtu.be/sqHFjyfAxTw
 
-[![Signup and Login with PHP and MySQL](https://img.youtube.com/vi/5L9UhOnuos0/0.jpg)](https://youtu.be/5L9UhOnuos0)
+Simple webpage video: https://youtu.be/sqHFjyfAxTw
